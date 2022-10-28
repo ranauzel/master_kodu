@@ -1,1 +1,1 @@
-# master_kodu
+# araç kontrol sisteminin master kodları.
